@@ -12,7 +12,7 @@ AquaSense AI monitors water levels and flow in real time, detects leakages autom
 
 ---
 <p align="center">
-  <img src="[images/smartpark-dashboard](https://5.imimg.com/data5/SELLER/Default/2024/4/408579497/EM/CZ/CK/2569893/iot-based-water-level-monitoring-system-500x500.jpg" width="900">
+  <img src="IoT Water Level Monitoring System.png" width="900">
 </p>
 ## 📌 Table of Contents
 
